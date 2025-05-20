@@ -31,6 +31,7 @@ const App = () => {
           <Route path='/placeorder' element={<PlaceOrder/>} />
           <Route path='/product/:productId' element={<Product/>} />
           <Route path='*' element={<div>Page Not Found</div>} />
+          {/* <Route path='*' element={<Home/>} /> */}
         </Routes>
       </Layout>
     </div>
