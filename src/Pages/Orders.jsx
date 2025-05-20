@@ -71,7 +71,7 @@ const Orders = () => {
               className="py-4 border-t border-gray-400 flex flex-col md:flex-row items-center md:justify-between my-2 "
             >
               {/* 1st image and other part div */}
-              <div className="flex gap-10 w-1/3 " >
+              <div className="flex flex-col sm:flex-row gap-10 w-1/3 " >
                 <img src={item.image[0]} className="max-w-30 h-30 " alt="" />
                 <div>
                   <p className="text-base" >{item.name}</p>
