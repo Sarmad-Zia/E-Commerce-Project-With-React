@@ -7,7 +7,7 @@ import ShopProvider from './Context/ShopContex.jsx'
 
 createRoot(document.getElementById('root')).render(
   
-  <BrowserRouter basename='/E-Commerce-Project-With-React' >
+  <BrowserRouter >
       <ShopProvider>
             <App />
       </ShopProvider>
