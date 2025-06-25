@@ -1,6 +1,6 @@
 # Forever E-Commerce Site
 
-🚀 **Live Demo:** [[Link to your deployed site here]](https://sarmad-zia.github.io/E-Commerce-Project-With-React/)
+🚀 **Live Demo:** [[Click here to visit the Site]](https://sarmad-zia.github.io/E-Commerce-Project-With-React/)
 
 ## ✨ Overview
 
