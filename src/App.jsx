@@ -12,7 +12,7 @@ import Orders from './Pages/Orders'
 import PlaceOrder from './Pages/PlaceOrder'
 import Layout from './Layout/Layout'
 import Search from './Commponents/Search'
-import { ToastContainer, toast } from 'react-toastify'
+import { ToastContainer } from 'react-toastify'
 
 const App = () => {
   return (
